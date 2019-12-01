@@ -26,9 +26,9 @@ public class JointFollowAnimRot : MonoBehaviour
     {
         invert = false;
 
-        torqueForce = 500f;
+        torqueForce = 300f;
         angularDamping = 0f;
-        maxForce = 500f;
+        maxForce = 300f;
 
         springForce = 0f;
         springDamping = 0f;
