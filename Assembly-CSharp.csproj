@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterMotor.cs" />
+    <Compile Include="Assets\Scripts\CharacterUpright.cs" />
     <Compile Include="Assets\Scripts\CopyTransform.cs" />
     <Compile Include="Assets\Scripts\JointFollowAnimRot.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
